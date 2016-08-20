@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"os/exec"
 
-	log "github.com/AcalephStorage/consul-alerts/Godeps/_workspace/src/github.com/Sirupsen/logrus"
 	"github.com/AcalephStorage/consul-alerts/notifier"
+	log "github.com/Sirupsen/logrus"
 )
 
 // NotifEngine handles notifications.
