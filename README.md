@@ -1,7 +1,7 @@
 consul-alerts
 =============
 
-[![Join the chat at https://gitter.im/AcalephStorage/consul-alerts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AcalephStorage/consul-alerts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/positionly/consul-alerts.svg?branch=master)](https://travis-ci.org/positionly/consul-alerts)
 
 A highly available daemon for sending notifications and reminders based on Consul health checks.
 
